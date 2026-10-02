@@ -12,14 +12,14 @@ A lightweight, efficient Discord bot built with `discord.js` designed for server
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/M5GamersPro/BroadCast-Bot-V2
    cd BroadCast-Bot-V2
    ```
 
 2. **Install dependencies:**
    Make sure you have Node.js installed, then run:
    ```bash
-   npm install discord.js
+   npm install discord.js dotenv
    ```
 
 3. **Configure Your Token:**
