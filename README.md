@@ -19,7 +19,7 @@ A lightweight, efficient Discord bot built with `discord.js` designed for server
 2. **Install dependencies:**
    Make sure you have Node.js installed, then run:
    ```bash
-   npm install discord.js dotenv
+   npm install discord.js
    ```
 
 3. **Configure Your Token:**
