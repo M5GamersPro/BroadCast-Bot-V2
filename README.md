@@ -41,3 +41,6 @@ For the bot to successfully fetch your server's member list, you **must** enable
 
 ## ⚠️ Disclaimer
 This utility is intended strictly for administrative announcements in environments where users expect community notifications. Mass DMing can violate Discord's Developer Terms of Service and Community Guidelines if used for spamming purposes. Use responsibly.
+
+M5
+EnzoCord
