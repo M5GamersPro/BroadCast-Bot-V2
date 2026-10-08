@@ -2,6 +2,8 @@
 
 A lightweight, efficient Discord bot built with `discord.js` designed for server administrators to broadcast direct messages (DMs) to all members of a server. Perfect for community announcements, updates, and newsletter distribution.
 
+<img width="1376" height="768" alt="image_1f016173" src="https://github.com/user-attachments/assets/d02e6630-38cd-4f9c-9196-3fc389cd3a6a" />
+
 ## 🚀 Features
 
 * **Global DMs:** Message everyone in your server at once.
